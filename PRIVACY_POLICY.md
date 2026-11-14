@@ -42,7 +42,7 @@ Jigu caches some photos, session information, and widget content on your device 
 
 ## Account and data deletion
 
-You can request deletion through **Jigu > Settings > Delete account**, which opens a message to the developer, or use the [public account deletion instructions](DELETE_ACCOUNT.md). Send the request from your account email so ownership can be verified. The developer will respond with verification steps and process the request to delete your account and associated personal data. Deleting an account is separate from logging out or leaving a shared space. Your partner may still have a copy of a photo they saved to their own device. Contact us if you want particular shared content reviewed for removal.
+You can permanently delete your account in **Jigu > Settings > Delete account** after entering your current password. This removes your account and personal data, plus every shared space you belong to, including its moments, date plans, places, and stored photos; your partner is unpaired. See the [public account deletion instructions](DELETE_ACCOUNT.md) for an email request option if you cannot access the app. Deleting an account is separate from logging out or leaving a shared space. Copies saved to either person's phone gallery remain outside Jigu. Contact us if you want particular shared content reviewed for removal.
 
 ## Security and children
 
