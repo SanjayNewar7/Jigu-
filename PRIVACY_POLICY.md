@@ -11,6 +11,7 @@ Jigu is a private relationship app for two people to share moments, see a mutual
 ## Information Jigu collects
 
 - **Account and pairing:** Your email address, the name you choose to show your partner, authentication information handled by Supabase Auth, a six digit invitation code, and your current and past shared-space memberships. Do not post your code publicly.
+- **Shared names:** You and your currently connected partner can change each other's displayed name in Settings. A change is visible to both of you and remains until changed again. Leaving the shared space removes the partner's ability to rename you.
 - **Shared moments:** Photos, edited photo text, captions, upload times, likes, and saved items that you choose to share. A photo selected from the gallery or captured with the camera is used for the action you choose.
 - **Places and dates:** Optional location coordinates, accuracy and movement details supplied by the phone, timestamps, date invitations, chosen venues, dress style, messages, custom or favourite places, and a date selfie if added.
 - **Personal reflections:** Moods and journal entries you create. These are kept for your account and are not shared with your partner through the app.
