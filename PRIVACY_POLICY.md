@@ -16,6 +16,7 @@ Jigu is a private relationship app for two people to share moments, see a mutual
 - **Places and dates:** Optional location coordinates, accuracy and movement details supplied by the phone, timestamps, date invitations, chosen venues, dress style, messages, custom or favourite places, and a date selfie if added.
 - **Personal reflections:** Moods and journal entries you create. These are kept for your account and are not shared with your partner through the app.
 - **Notifications and device data:** A device push token for notifications, notification choices, and local app/widget caches. Service providers may receive normal network information such as IP address when your phone contacts them.
+- **Safety reports:** If you submit a child safety concern in the app, we store the category, description, submission time, and your account ID so the developer can review and respond. Reports are not shown to your partner. If you delete your account, its account ID is removed from the report; the report text may be retained as needed to address safety concerns or comply with law. Do not include abusive images in a report.
 
 ## How Jigu uses and shares information
 
